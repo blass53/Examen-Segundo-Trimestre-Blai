@@ -7,7 +7,7 @@ import Delete from './Delete';
 export default function List(props) {
 
     const listado = props.list;
-    //props.setList(listado);
+
 
     return (
         <>
